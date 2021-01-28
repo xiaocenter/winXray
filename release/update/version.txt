@@ -1,8 +1,8 @@
 {
-    "description":"发布 v2.3，修正刷新clash订阅连接重复添加服务器，改进订阅管理等。",
+    "description":"V2.5 继续使用xray核心，并支持NaïveProxy协议，修复了个别订阅无法获取订阅的问题！",
     "format":".lzma",
     "main":"\\winXray.exe",
     "updater":"\\winXray.exe",
-    "url":"https://raw.githubusercontent.com/winXray/winXray/master/release/update/",
-    "version":"2.3"
+    "url":"https://raw.githubusercontent.com/TheMRLL/winXray/main/release/update/",
+    "version":"3.5.1.03"
 }
